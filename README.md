@@ -1,10 +1,8 @@
-# GEMINIPROMPTSV05.7.25
-1.0
-GEMINI PROMPTS V05.7.25
+GEMINIPROMPTSV05.7.25
 Version: 05.7.25
 
 Overview
-GEMINI PROMPTS V05.7.25 is a collection of advanced prompts designed to optimize interactions with AI language models. These prompts are tailored to enhance the performance and output quality of models like GPT-3, ensuring more accurate and contextually relevant responses.
+GEMINIPROMPTSV05.7.25 is a collection of advanced prompts designed to optimize interactions with AI language models. These prompts are tailored to enhance the performance and output quality of models like GPT-3, ensuring more accurate and contextually relevant responses.
 
 Features
 Diverse Prompt Collection: A wide range of prompts covering various topics and use cases.
@@ -39,9 +37,18 @@ Contributing
 Contributions are welcome! If you have suggestions for new prompts or improvements to existing ones, please submit a pull request or open an issue.
 
 License
-This project is licensed under the MIT License.
+This project is licensed under the Apache License 2.0. See the LICENSE file for details.
 
 Contact
 For questions or support, please contact Cat-san.
 
 This README.md provides a clear and structured overview of your project, guiding users on its purpose, features, and how to utilize it effectively.
+
+
+Sources
+
+
+
+
+
+
